@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
                    
                    
                    
-*INVOICE BILL from* yutta.store
+*INVOICE BILL from* maniyaiofficial.store
                  
 Time: ${timestamp} 
 ------------------------------------------------------

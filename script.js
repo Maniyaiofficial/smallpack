@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const orderForm = document.querySelector('.order-info form');
     const totalPriceSpan = document.getElementById('total-price');
     const orderNowButton = document.querySelector('.order-now');
-    const qrCodeUrl = "https://i.ibb.co/Pjmz1MW/maniyaiofficial-Qr.jpg" ; // Replace with your QR code image URL
+    const qrCodeUrl = "https://i.ibb.co/c6799Kw/IMG-0229.jpg" ; // Replace with your QR code image URL
 
     let selectedPackage = null;
 
@@ -36,7 +36,7 @@ Zone ID: ${zoneId}
             
 *Payment Method* 
            
-1. UPI ID: ningthoujammaniyai4-2@okaxis
+1. UPI ID: 9233833775
             
 2. [QR Code](${qrCodeUrl})
             
